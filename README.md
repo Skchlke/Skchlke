@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sakshi
 - 👀 I’m interested in Full Stack Development, Machine learning and AI
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AWS
 - 📫 You can reach me on:
      - LinkedIn : https://www.linkedin.com/in/sakshi-chalke-453518248/
 - ⚡Thanks for stopping by!
